@@ -1,3 +1,5 @@
+/* UNIT TESTING WITH CHAI & MOCHA */
+
 const expect = chai.expect;
 
     describe('shuffle', function() {
